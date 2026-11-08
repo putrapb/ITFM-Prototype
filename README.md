@@ -137,8 +137,8 @@ Aturan kata kunci klasifikasi dapat dikonfigurasi di `config/eprocurement.php` (
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/putrapb/production-eproc.git
-cd production-eproc
+git clone https://github.com/putrapb/ITFM-Prototype.git
+cd ITFM-Prototype
 
 # 2. Install dependency PHP
 composer install
