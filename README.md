@@ -1,4 +1,4 @@
-# e-Procurement BNI
+# e-Procurement ITFM
 
 Sistem pengajuan dan persetujuan pengadaan (e-Procurement) berbasis **Laravel 13**, **Tailwind CSS**, dan **Alpine.js** untuk lingkungan **IT Infrastructure Management**. Aplikasi ini mengelola alur tiket pengadaan dari pengajuan requester, pemeriksaan dokumen oleh Team Leader, validasi otomatis (Smart Validation 4-Gate), keputusan Department Head, hingga penerbitan Form Pengadaan (PDF) dan arsip audit.
 
